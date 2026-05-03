@@ -1,6 +1,6 @@
 # Kafka Live Location Sharing
 
-[Watch the YouTube demo video]()
+[Watch the YouTube demo video](https://www.youtube.com/watch?v=dgJEv_GHwf4)
 
 A real-time live location sharing app built with **Node.js**, **Express**, **Socket.IO**, **KafkaJS**, and **Leaflet**. The project lets authenticated users open a live map, share their current position, and receive live updates from other connected users through a Kafka-backed event pipeline.
 
